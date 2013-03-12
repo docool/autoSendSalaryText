@@ -55,7 +55,7 @@ class Ak_mailGen:
 if __name__ == '__main__':
     to_addr   = 'test@163.com'
     from_addr = 'yi01625@163.com'
-    subject   = "salary text"
+    subject   = "auto send salary text"
     smtp_server = 'smtp.163.com'
     smtp_passwd = '12344'
     
